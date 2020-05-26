@@ -1,2 +1,2 @@
 # NIXNET-IronPython-Wrapper
-A modification of the nixnet python API for IronPython.
+A modification of the nixnet Python API for IronPython.
